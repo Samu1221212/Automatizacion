@@ -1,4 +1,5 @@
-__pycache__/
+
+# Python
 *.pyc
 *.pyo
 *.pyd
@@ -10,3 +11,8 @@ __pycache__/
 *.idea/
 *.vscode/
 *.DS_Store
+
+# Entornos virtuales
+.env
+venv/
+.env.local
