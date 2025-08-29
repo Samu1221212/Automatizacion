@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 040cc708bb4ba6673971516f48508dacf2e5fe5b
 from pathlib import Path
 from datetime import timedelta
 import os
@@ -265,6 +268,7 @@ SPECTACULAR_SETTINGS = {
 
 # Custom Settings
 
+<<<<<<< HEAD
 =======
 from pathlib import Path
 from datetime import timedelta
@@ -533,4 +537,6 @@ SPECTACULAR_SETTINGS = {
 # Custom Settings
 
 >>>>>>> bc835c3 (Subo cambios de pruebas y ajustes)
+=======
+>>>>>>> 040cc708bb4ba6673971516f48508dacf2e5fe5b
 PASSWORD_RESET_TIMEOUT = 600  # 10 minutes for password reset codes

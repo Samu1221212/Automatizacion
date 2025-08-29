@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Python
 *.pyc
@@ -11,6 +12,13 @@
 *.idea/
 *.vscode/
 *.DS_Store
+=======
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+>>>>>>> 040cc708bb4ba6673971516f48508dacf2e5fe5b
 
 # Entornos virtuales
 .env

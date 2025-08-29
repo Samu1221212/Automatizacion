@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 040cc708bb4ba6673971516f48508dacf2e5fe5b
 """
 URL configuration for winespa project.
 
@@ -22,6 +25,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
 ]
+<<<<<<< HEAD
 =======
 """
 URL configuration for winespa project.
@@ -47,3 +51,5 @@ urlpatterns = [
     path('api/', include('api.urls')),
 ]
 >>>>>>> bc835c3 (Subo cambios de pruebas y ajustes)
+=======
+>>>>>>> 040cc708bb4ba6673971516f48508dacf2e5fe5b
